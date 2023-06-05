@@ -1,0 +1,7 @@
+{
+  "category": "Deporte",
+  "question": "¿Qué jugador de futbol gano tres veces la COPA DEL MUNDO?",
+  "options": ["Diego Maradona", "Ronaldo Nazario", "Edson Arantes do Nascimento"],
+  "answer": 2,
+  "explanation": "El brasileño tiene el récord Guinness a la mayor cantidad de Mundiales ganados por un jugador. Edson Arantes do Nascimento se llevó la copa tres veces en total, en Suecia 1958, Chile 1962 y México 1970."
+}
