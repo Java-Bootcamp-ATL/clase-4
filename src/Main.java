@@ -43,7 +43,7 @@ public class Main {
         System.out.println("El precio final a pagar es: " + finalPriceToPay.calculateDiscountRestaurant(totalToPay, discountRestaurant));
         System.out.println("----------------------------------------------------------------------------");
 
-        System.out.println("Pregunta cinco de adivinar un numero aleatorio del 1 - 10");
+        System.out.println("Pregunta cinco de adivinar un numero aleatorio del 1 - 100");
         System.out.println("----------------------------------------------------------------------------");
         QuestionFive finalResult = new QuestionFive();
 
